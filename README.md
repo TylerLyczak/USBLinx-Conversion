@@ -59,11 +59,19 @@ Next, we want to edit the User Configuration
 Open "Windows Settings", then "Scripts (Logon/Logoff)"
 ```
 
+![alt text](./imgs/1.png)
+
 Next, click on "Logon"
+
+![alt text](./imgs/2.png)
 
 Next, click on "Add"
 
+![alt text](./imgs/3.png)
+
 Click browse, then click on the "numlock.vbs" we added to the folder, then click "OK"
+
+![alt text](./imgs/4.png)
 
 Click "Apply" then "OK", then close out of it and reboot
 
