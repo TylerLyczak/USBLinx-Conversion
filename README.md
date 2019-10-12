@@ -79,3 +79,7 @@ Click "Apply" then "OK", then close out of it and reboot
 ## Authors
 
 * **Tyler Lyczak**
+
+## Future Updates
+
+* **Linux script**
