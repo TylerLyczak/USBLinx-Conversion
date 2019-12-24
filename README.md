@@ -4,6 +4,8 @@ Since the USBLinx JAMMA card on Ultimate Arcade machines is not very well docume
 this will help you start up your own MAME machine from an existing Ultimate Arcade machine
 with a USBLinx JAMMA card
 
+![alt text](https://github.com/TylerLyczak/USBLinx-Conversion/blob/master/imgs/5.jpg)
+
 ## Getting Started
 
 You are going to need an Ultimate Arcade machine (or similar).
@@ -74,6 +76,13 @@ Click browse, then click on the "numlock.vbs" we added to the folder, then click
 ![alt text](https://github.com/TylerLyczak/USBLinx-Conversion/blob/master/imgs/4.PNG)
 
 Click "Apply" then "OK", then close out of it and reboot
+
+### Hooking-Up the Card
+
+To get the card to work with all the buttons and the trackball, you need
+to BOTH plug the PS/2 AND USB from the card into the PC.
+
+This will allow to use all the buttons and trackball without any problem
 
 
 ## Authors
